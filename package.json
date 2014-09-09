@@ -1,0 +1,17 @@
+{
+  "name": "instagram",
+  "version": "0.0.1",
+  "author": {
+    "name": "dron",
+    "email": "a.makahov@gmail.com"
+  },
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-contrib-concat": "latest",
+    "grunt-contrib-connect": "^0.8.0",
+    "grunt-contrib-cssmin": "latest",
+    "grunt-contrib-jshint": "latest",
+    "grunt-contrib-uglify": "latest",
+    "grunt-contrib-watch": "latest"
+  }
+}
