@@ -1,4 +1,4 @@
 grunt
 =====
 
-foundation for JavaScript applications
+Основа для построения JavaScript приложений
